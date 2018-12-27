@@ -335,7 +335,7 @@ section:after,
     width: 20%;
     float: left;
     position: relative;
-    height: 100%;
+    height: 70%;
 }
 
 .col-seven {
@@ -1130,6 +1130,7 @@ input[type=text]::-ms-clear {
 
     .col-five {
         width: 100%;
+       
     }
 
 }

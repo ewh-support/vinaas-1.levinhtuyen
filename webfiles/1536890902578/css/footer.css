@@ -9,7 +9,7 @@
 .section-footer .footer-links {
   position: relative;
   width: 100%;
-  padding: 34px 0 31px;
+  /* padding: 34px 0 31px; */
   max-width: 1180px;
   overflow: hidden;
   margin: 0 auto;
